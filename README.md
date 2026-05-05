@@ -1,5 +1,11 @@
-# sql-data-warehouse-project
-Data Warehouse and Analytics Project
+# SQL Data Warehouse - Learning Project
 
-Welcome to the Data Warehouse and Analytics Project repository! 🚀  
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
+> 📚 **Note**: This is a hands-on learning project completed as part of 
+> my journey to understand enterprise data warehousing concepts. 
+> The implementation follows established best practices and tutorials.
+
+## Learning Objectives
+- Star schema design
+- ETL processes
+- Data modeling fundamentals
+- T-SQL for data warehousing
